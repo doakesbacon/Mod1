@@ -5,3 +5,6 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
 --
 I did the work on my own. I did take part of the study group on wednesday oct 18 vanessa, erica, steve , felix, and ian was apart of. But I already had the work done at that time 
+
+Create a new column called Percent Funded that uses a formula to find how much money a campaign made relative to its initial funding goal.
+I did the floor because of ID 527 and 787  if rounded up it would equal to 100 and failed. 
